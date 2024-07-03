@@ -7,7 +7,6 @@ import { Provider } from "react-redux";
 import "./index.css";
 import Home from "./components/Home/Home.jsx";
 import Products from "./components/AllProducts/Products.jsx";
-import Test from "./components/Test.jsx";
 
 const router = createBrowserRouter([
   {
